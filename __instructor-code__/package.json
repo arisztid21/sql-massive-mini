@@ -1,7 +1,6 @@
 {
-  "name": "sql-massive-mini",
+  "name": "sql-massive-mini-wpx7",
   "version": "1.0.0",
-  "main": "server/index.js",
   "description": "This is a mini project for DevMountain. Instructions will be given by your instructor.",
   "main": "server/index.js",
   "scripts": {
@@ -9,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arisztid21/sql-massive-mini.git"
+    "url": "git+https://github.com/tylercollier-devmtn/sql-massive-mini.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arisztid21/sql-massive-mini/issues"
+    "url": "https://github.com/tylercollier-devmtn/sql-massive-mini/issues"
   },
-  "homepage": "https://github.com/arisztid21/sql-massive-mini#readme",
+  "homepage": "https://github.com/tylercollier-devmtn/sql-massive-mini#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
-    "massive": "^5.0.0"
+    "massive": "^5.2.0"
   }
 }
